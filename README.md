@@ -27,6 +27,7 @@ print(b)
 
 ## Sample Input and Output:
 ![norm1](./input.jpg)
+![output](https://github.com/RanjithD18/Norm-Matrix/blob/main/Screenshot%20(66).png)
 
 ## Result
 Thus the program for 2-norm of a matrix is written and verified.
